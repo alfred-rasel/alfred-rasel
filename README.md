@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Rasel Mahmud</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<h3 align="center">A passionate fullstack Web developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="410" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🌱 I’m currently learning **Golang**
 
